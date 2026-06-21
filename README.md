@@ -12,7 +12,11 @@ Modern banking and economy mod for Minecraft.
 
 ## Status
 
-🚧 Active Alpha Development
+✅ Available on CurseForge
+
+⏳ Under Review on Modrinth
+
+🚧 Active Development
 
 ## We're Looking for Contributors!
 
