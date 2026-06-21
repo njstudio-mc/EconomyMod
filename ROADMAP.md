@@ -1,31 +1,44 @@
 # Economy Mod Roadmap
 
-### v0.1.0
-- Bank Account System
-- Save Player Balance
-- /balance Command
-- /pay Command
+## v0.2.0
+* Bug Fixes
+* Performance Improvements
+* UI Improvements
+* Modrinth ReleasE
+  
+## v0.3.0
 
-### v0.2.0
-- Banking GUI
-- ATM Block
-- Transaction History
+* Admin Settings GUI
+* Account Limits
+* Currency Configuration
+* Transfer Limits
+  
+## v0.4.0
 
-### v0.3.0
-- Admin Settings GUI
-- Shop System
-- Item & Price Configuration
+* Shop Management GUI
+* Dynamic Item Pricing
+* GUI Customization
+  
+## v0.5.0
 
-### v0.4.0
-- Debit Cards
-- ATM Limits
-- Economy Fees
+* ATM System
+* ATM Blocks
+* ATM Limits
+  
+## v0.6.0
 
-### v0.5.0
-- Loans
-- Interest System
+* Debit Cards
+* Card Management
+* ATM Authentication
+  
+## v0.7.0
 
-### v1.0.0
-- Companies
-- Business Accounts
-- Full Multiplayer Economy
+* Loans
+* Interest System
+* Savings Accounts
+  
+## v1.0.0
+
+* Companies
+* Business Accounts
+* Advanced Economy Features
