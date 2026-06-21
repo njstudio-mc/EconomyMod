@@ -45,6 +45,16 @@ Found a bug? Open an Issue.
 
 Have an idea? Open a Discussion.
 
+## Downloads
+
+- CurseForge: <CurseForge-Link>
+- Modrinth: <Modrinth-Link>
+
+## Community
+
+- GitHub Discussions
+- [Discord](https://discord.gg/29sZp7RsVf)
+
 # Roadmap
 
 ## Current Features
