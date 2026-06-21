@@ -45,23 +45,6 @@ Found a bug? Open an Issue.
 
 Have an idea? Open a Discussion.
 
-## Roadmap
-
-### Planned
-
-- Bank Accounts
-- Debit Cards
-- ATMs
-- Transactions
-- Interest System
-
-### Future
-
-- Companies
-- Loans
-- Investments
-- Stock Market
-
-## License
+ ## License
 
 All Rights Reserved
