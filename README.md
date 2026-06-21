@@ -47,12 +47,12 @@ Have an idea? Open a Discussion.
 
 ## Downloads
 
-- CurseForge: <CurseForge-Link>
-- Modrinth: <Modrinth-Link>
+- [CurseForge](https://www.curseforge.com/minecraft/mc-mods/nj-economy)
+- [Modrinth](https://modrinth.com/mod/nj-economy)
 
 ## Community
 
-- GitHub Discussions
+- [GitHub Discussions](https://github.com/njstudio-mc/EconomyMod/discussions)
 - [Discord](https://discord.gg/29sZp7RsVf)
 
 # Roadmap
