@@ -73,6 +73,12 @@ Have an idea? Open a Discussion.
 
 ## See ROADMAP.md for the complete development roadmap.
 
+## Source Code Access
+
+The source code is currently private during active development.
+
+Developer access may be granted to approved contributors.
+
  ## License
 
 All Rights Reserved
