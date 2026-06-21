@@ -51,19 +51,24 @@ Have an idea? Open a Discussion.
 
 - Bank Accounts
 - Money Transfers
-- Debit Cards
+- Banking GUI
 - ATM Blocks
 - Transaction History
+- Admin Settings GUI
+- Shop System
+- Item & Price Management
+- Debit Cards
 - Interest System
-- Companies
-- Loans
-- Stock Market
 
 ## Future
 
+- Companies
 - Business Accounts
+- Loans
 - Investments
+- Stock Market
 - Multiple Currencies
+- Economy API for other mods
 - Advanced Administration Tools
 
 ## See ROADMAP.md for the complete development roadmap.
