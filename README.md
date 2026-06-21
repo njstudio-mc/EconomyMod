@@ -45,6 +45,29 @@ Found a bug? Open an Issue.
 
 Have an idea? Open a Discussion.
 
+# Roadmap
+
+## Planned Features
+
+- Bank Accounts
+- Money Transfers
+- Debit Cards
+- ATM Blocks
+- Transaction History
+- Interest System
+- Companies
+- Loans
+- Stock Market
+
+## Future
+
+- Business Accounts
+- Investments
+- Multiple Currencies
+- Advanced Administration Tools
+
+## See ROADMAP.md for the complete development roadmap.
+
  ## License
 
 All Rights Reserved
