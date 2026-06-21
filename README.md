@@ -47,15 +47,19 @@ Have an idea? Open a Discussion.
 
 # Roadmap
 
+## Current Features
+
+- Multiple Bank Accounts
+- Persistent Account Storage
+- Player-to-Player Transfers
+- Shop System
+- Refund System
+- Transaction History
+
 ## Planned Features
 
-- Bank Accounts
-- Money Transfers
-- Banking GUI
 - ATM Blocks
-- Transaction History
 - Admin Settings GUI
-- Shop System
 - Item & Price Management
 - Debit Cards
 - Interest System
