@@ -24,7 +24,6 @@ EconomyMod is currently in active development and we're looking for people to he
 
 ### Looking for
 
-- Java Developers
 - Minecraft Mod Developers
 - Testers
 - Translators
